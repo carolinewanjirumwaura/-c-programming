@@ -1,4 +1,4 @@
-/*arithmetic operation to calculate the volume of a cone*/
+//arithmetic operation to calculate the volume of a cone
 #include<stdio.h>
 int main()
 {
