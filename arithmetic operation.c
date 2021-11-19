@@ -1,3 +1,4 @@
+//demostrating the arithmetic operators
 #include<stdio.h>
 int main()
 {
